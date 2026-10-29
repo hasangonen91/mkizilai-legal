@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mkizilAI Privacy Policy</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main>
+    <h1>mkizilAI Privacy Policy</h1>
+    <p class="meta">Last updated: 29 October 2026 · Contact: mkizil916@gmail.com</p>
+
+    <p>mkizilAI is an AI coding assistant plugin for JetBrains IDEs and VS Code.</p>
+
+    <h2>What the plugin sends</h2>
+    <p>When you use the chat, the plugin sends the following to the mkizilAI service (a Cloudflare Worker operated by the vendor):</p>
+    <ul>
+      <li>the messages you type,</li>
+      <li>code, files, images or screenshots that you select or attach, and, in agent mode, the file names and file contents the agent reads from your open project,</li>
+      <li>your access code (to authenticate you), and the model you selected.</li>
+    </ul>
+    <p>The plugin does <strong>not</strong> read files outside your project without asking, and it refuses to read common secret locations such as <code>.env</code> and <code>.ssh</code>.</p>
+
+    <h2>Who receives it</h2>
+    <p>The service forwards your request to third-party language-model providers in order to generate an answer. These may include Cloudflare Workers AI, NVIDIA, Groq, Cerebras, Google, Mistral, OpenRouter, GitHub Models and others. Each provider processes the data under its own terms and privacy policy. Do not use the plugin with confidential, proprietary or personal data unless your organization allows it.</p>
+
+    <h2>Storage</h2>
+    <ul>
+      <li>Chat history is stored locally on your computer (inside your IDE configuration).</li>
+      <li>The service does not store your messages, code or images in a database. The Cloudflare Worker does not write request logs to long-term storage. Cloudflare may process and briefly retain standard request metadata (such as IP address, time and response status) for security, abuse prevention and reliability, normally for no more than a few days.</li>
+      <li>Access codes are used only to authenticate requests and for rate limiting; they are not linked to the content of your conversations.</li>
+    </ul>
+
+    <h2>Your choices</h2>
+    <p>You decide what code is shared. You can stop using the plugin at any time and remove it from your IDE. To request deletion of any data held by the service, write to the contact address above.</p>
+
+    <h2>Changes</h2>
+    <p>We may update this policy; the date above shows the latest version.</p>
+  </main>
+</body>
+</html>
