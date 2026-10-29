@@ -1,6 +1,6 @@
 # mkizilAI Privacy Policy
 
-_Last updated: 29 October 2026 · Contact: mkizil916@gmail.com_
+_Last updated: 29 October 2026 · Contact: hasangonen91@gmail.com_
 
 mkizilAI is an AI coding assistant plugin for JetBrains IDEs and VS Code.
 

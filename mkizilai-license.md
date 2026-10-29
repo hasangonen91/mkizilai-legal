@@ -1,6 +1,6 @@
 # mkizilAI End User License Agreement
 
-_Last updated: 30 October 2026 · Vendor contact: mkizil916@gmail.com_
+_Last updated: 30 October 2026 · Vendor contact: hasangonen91@gmail.com_
 
 This agreement is between you ("User") and the mkizilAI vendor ("Vendor") and covers the mkizilAI plugin for JetBrains IDEs and the related VS Code extension (the "Software") and the hosted mkizilAI service it connects to (the "Service"). By installing or using the Software you accept these terms.
 
@@ -35,4 +35,4 @@ This agreement ends if you breach it or when you uninstall the Software. Section
 The Vendor may update these terms; continued use means acceptance. This agreement is governed by the laws of the Republic of Turkey, and the courts of Istanbul have jurisdiction over disputes, without prejudice to any mandatory consumer-protection rights.
 
 ## 11. Contact
-mkizil916@gmail.com
+hasangonen91@gmail.com
